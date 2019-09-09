@@ -2,7 +2,7 @@
     "name": "client",
     "version": "0.1.0",
     "private": true,
-    "homepage": ".",
+    "homepage": "http://80.211.3.196/devconnector/client/build/",
     "dependencies": {
         "axios": "^0.18.0",
         "moment": "^2.24.0",
