@@ -1,6 +1,6 @@
 {
-  "mongoURI": "",
-  "jwtSecret": "secret",
-  "githubClientId": "",
-  "githubSecret": ""
+    "mongoURI": "mongodb://herbowicz:czesccze2@ds217078.mlab.com:17078/devconnector",
+    "jwtSecret": "secret",
+    "githubClientId": "",
+    "githubSecret": ""
 }
